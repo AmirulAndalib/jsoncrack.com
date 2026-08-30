@@ -145,7 +145,7 @@ export const NotSupported = () => {
           <ShiningButton>
             <Button
               component="a"
-              href={`https://todiagram.com/editor?utm_source=jsoncrack&utm_medium=data_limit&modal=upgrade&format=${format}&example=true`}
+              href={`https://todiagram.com/editor?utm_source=jsoncrack&utm_medium=data_limit&format=${format}&example=true`}
               rel="noopener"
               size="md"
               fullWidth
